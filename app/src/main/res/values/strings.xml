@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Current News</string>
+    <string name="IDS_PUBLISH">Publish :</string>
+    <string name="IDS_SEARCH_HERE">Search here…</string>
+    <string name="IDS_SEARCH">Search</string>
+    <string name="IDS_NEWS">News</string>
+</resources>
